@@ -1,0 +1,1 @@
+Apresento aqui a versão para TABLETS em alta fidelidade, feita no Figma, do site de e-commerce do hipotético jogo "Geométrica", que seria inspirado em quebra-cabeças geométricos. Atividade de aprendizagem do curso de front-end.
